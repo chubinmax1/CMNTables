@@ -26,7 +26,7 @@ Table borders styles:
 *	11 - formated data with corners
 *	12 - formated data without divider lines
 
-[Samples of Tables Styles](https://downloader.disk.yandex.ru/disk/19bb057fe568b48604491899b728d643f17da7ce8a0b5cb98009ae823eeabe95/6258cde0/gvQ_iwuEdTJ9sQTh5CADwuiGa49bgm1dBkcrxBn9Pb1Z7V9SMYGTB3MhFoWc37APz2h5P6h3glIJF2gSM5Fpkg%3D%3D?uid=0&filename=styles0-3.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&fsize=28023&hid=719bc93a21d1a66b0d5c3c93f2e1b704&media_type=image&tknv=v2&etag=c68cc3f2bbd5b6ca82f8a0083063e6b4)
+[Samples of Tables Styles](https://1.downloader.disk.yandex.ru/preview/3131ea0626e5dc6681f5be0c268a4f062de5506faed4a13933f6f28846ef2adc/inf/jHmGiDJaKHUAKgMCu6exN-ruuZUdpXf4HrxlC4RJ8rh4bWzYi2A7Mw0cNlCJUBC7GUPDTEgkvvGFHtV6IDYhNA%3D%3D?uid=28889010&filename=styles0-3.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=28889010&tknv=v2&size=1920x927)
 
 ***
 ## Available colors

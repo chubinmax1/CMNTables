@@ -8,7 +8,7 @@ class Mtable:
 	'''
 	Max Chubin <chubinmax@yandex.r>
 	MaxTable - data output in tabular form.
-	Many styles of borders, different colors for borders, title, geader, data, intends for best look
+	Many styles of borders, different colors for borders, title, header, data, intends for best look
 	'''
 	# символы для отрисовки узлов таблицы
 	styles = [	['┌','─','┐','└','┘','│','┬','┴','┼','├','┤','│','─'],	# 0
@@ -83,20 +83,20 @@ class Mtable:
 		Цвет текста в таблице:
 		text_color = 'white'
 
-		Стили границ таблицы:
-		0 - одинарная,
-		1 - двойная,
-		2 - внешняя двойная, а внутренняя одинарная
-		3 - только внутренние одинарные линии
-		4 - только внешняя одинарная рамка
-		5 -  внешняя одинарная рамка с засечками
-		6 - только внешняя двойная рамка
-		7 - внешняя двойная рамка с засечками
-		8 - ASCII стиль 1
-		9 - ASCII стиль 22
-		10 - вывод форматированного текста без линий c узлами таблицы
-		11 - вывод форматированного текста без линий c уголками таблицы
-		12 - вывод форматированного текста без линий
+		Table borders styles:
+		* 	0 - single line borders and dividers
+		*	1 - double line borders and dividers
+		*	2 - double line external borders and single line dividers
+		*	3 - no external borders, only single line dividers and corners
+		*	4 - single line external borders with rows and columns marker
+		*	5 - single line external borders
+		*	6 - double line external borders with rows and columns marker
+		*	7 - double line external borders
+		*	8 - ASCII style 1
+		*	9 - ASCII style 2
+		*	10 - formated data with divider crossroads 
+		*	11 - formated data with corners
+		*	12 - formated data without divider lines
 
 		Цвет тиний таблицы:
 		borders_color = 'white'
