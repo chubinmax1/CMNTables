@@ -25,6 +25,9 @@ Table borders styles:
 ![Style 2](https://downloader.disk.yandex.ru/preview/27d8f338532e39d94ef5aaeee7680378e649341c23ed2dec454b8b703587a1dc/6258c8eb/cydfbRPIy_LKdRee_9pwChbiJVj3ia7qeNrvgg3bIb-fNsDZQ3xrW2PQBhS-jzpHmaaDGiem4d3MTja1z-mHXw%3D%3D?uid=0&filename=style2.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
 
 *	3 - no external borders, only single line dividers and corners
+
+![Style 3](https://downloader.disk.yandex.ru/disk/19f14bf16d041a9dce2be90af4bbd8e4f9abd331d3138c0b0c8aecabb87d0aee/6258cc44/gvQ_iwuEdTJ9sQTh5CADwkH5MqpXfy8e737Cw3SsQaEnbNsU_J-i9nhDaEXz3PRNt1sN3SobZcOU0un8ORlx5g%3D%3D?uid=0&filename=Style3.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&fsize=7039&hid=b55092ec40a208fcec897daec4dd5b46&media_type=image&tknv=v2&etag=ad3e6253b6690955768b223bd75d733a)
+
 *	4 - single line external borders with rows and columns marker
 *	5 - single line external borders
 *	6 - double line external borders with rows and columns marker
