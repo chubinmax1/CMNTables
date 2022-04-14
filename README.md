@@ -30,6 +30,11 @@ Table borders styles:
 
 [Samples of Tables Styles 4-7](https://downloader.disk.yandex.ru/preview/22045d79d141bd0c57978c1a8d97ee3a5ce0778021535a48f3c56f62e784c6fa/6258cf98/sudv65zWP8Gz5ucB0BCeEOoLIZijh98BcRIQPTRc0yhCS1L7_-MvL-5-4iKAcF7rToZbwyQ1PIvXEpTY5zrbng%3D%3D?uid=0&filename=styles4-7.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=1920x927)
 
+[Samples of Tables Styles 8-11](https://downloader.disk.yandex.ru/preview/a1f7a4b1d68f1250290d483a6b6f3fb043e2c56bfc375a83d8509efe438949d7/6258d0bd/Ky2kdmQ9lR4XM8a7ebT9InKlpwby9m-K9YpCtK09Ibbdg4xaVeOmFjZ6TFvzXgJ6n7CWoOmuHTmfvZQzZ0B8QA%3D%3D?uid=0&filename=styles8-12.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=1920x927)
+
+[Samples of Tables Style 12](https://downloader.disk.yandex.ru/preview/10cd11c36aa9eae45eb6a408e2aaaf49d70447301230d4595c5cc6a6fc67975a/6258d133/0cKCT-C42tqdrSqHQa5_KBAfhGvjDe7XDjmFdtdy7txEi90_9YIPU_C828C-Nw4wUV4osfieXttjLzUh0kRhew%3D%3D?uid=0&filename=style12.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=1920x927)
+
+
 ***
 ## Available colors
 * black
