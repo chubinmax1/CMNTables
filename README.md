@@ -26,9 +26,9 @@ Table borders styles:
 *	11 - formated data with corners
 *	12 - formated data without divider lines
 
-![Samples of Tables Styles 0-3](https://1.downloader.disk.yandex.ru/preview/3131ea0626e5dc6681f5be0c268a4f062de5506faed4a13933f6f28846ef2adc/inf/jHmGiDJaKHUAKgMCu6exN-ruuZUdpXf4HrxlC4RJ8rh4bWzYi2A7Mw0cNlCJUBC7GUPDTEgkvvGFHtV6IDYhNA%3D%3D?uid=28889010&filename=styles0-3.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=28889010&tknv=v2&size=1920x927)
+[Samples of Tables Styles 0-3](https://1.downloader.disk.yandex.ru/preview/3131ea0626e5dc6681f5be0c268a4f062de5506faed4a13933f6f28846ef2adc/inf/jHmGiDJaKHUAKgMCu6exN-ruuZUdpXf4HrxlC4RJ8rh4bWzYi2A7Mw0cNlCJUBC7GUPDTEgkvvGFHtV6IDYhNA%3D%3D?uid=28889010&filename=styles0-3.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=28889010&tknv=v2&size=1920x927)
 
-![Samples of Tables Styles 4-7](https://1.downloader.disk.yandex.ru/preview/3131ea0626e5dc6681f5be0c268a4f062de5506faed4a13933f6f28846ef2adc/inf/jHmGiDJaKHUAKgMCu6exN-ruuZUdpXf4HrxlC4RJ8rh4bWzYi2A7Mw0cNlCJUBC7GUPDTEgkvvGFHtV6IDYhNA%3D%3D?uid=28889010&filename=styles0-3.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=28889010&tknv=v2&size=1920x927)
+[Samples of Tables Styles 4-7](https://1.downloader.disk.yandex.ru/preview/3131ea0626e5dc6681f5be0c268a4f062de5506faed4a13933f6f28846ef2adc/inf/jHmGiDJaKHUAKgMCu6exN-ruuZUdpXf4HrxlC4RJ8rh4bWzYi2A7Mw0cNlCJUBC7GUPDTEgkvvGFHtV6IDYhNA%3D%3D?uid=28889010&filename=styles0-3.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=28889010&tknv=v2&size=1920x927)
 
 ***
 ## Available colors
