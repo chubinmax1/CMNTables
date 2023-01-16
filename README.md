@@ -46,7 +46,7 @@ Table borders styles:
 ```python 
 from cooltable import Mtable
 
-table = Mtable (title = "Style 2", data = example_text, style = 2, indent = 1, header = True, alignment = 'center', header_color = 'yellow', shadow = True, shadow_color = 'turquoise', text_color = 'green', borders_color = 'blue', title_color = 'red')
+table = Mtable (title = "Style 2", data = example_text, style = 2, indent = 1, header = True, alignment = 'center', header_color = 'yellow', shadow_color = 'turquoise', text_color = 'green', borders_color = 'blue', title_color = 'red')
 
 table.show()    # output color table to console
 
