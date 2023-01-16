@@ -28,7 +28,7 @@ Table borders styles:
 *	13 - external sinle line border
 *	14 - external double line border
 
-[Samples of Tables Styles 0-3](https://1.downloader.disk.yandex.ru/preview/3131ea0626e5dc6681f5be0c268a4f062de5506faed4a13933f6f28846ef2adc/inf/jHmGiDJaKHUAKgMCu6exN-ruuZUdpXf4HrxlC4RJ8rh4bWzYi2A7Mw0cNlCJUBC7GUPDTEgkvvGFHtV6IDYhNA%3D%3D?uid=28889010&filename=styles0-3.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=28889010&tknv=v2&size=1920x927)
+[Samples of Tables Styles 0-3](https://downloader.disk.yandex.ru/preview/ef4c00e54f32bfcd1bb7d6cbfbfd0e77ae763751aabdd772593eb78f01ba536b/63c5eae3/jHmGiDJaKHUAKgMCu6exN-ruuZUdpXf4HrxlC4RJ8rh4bWzYi2A7Mw0cNlCJUBC7GUPDTEgkvvGFHtV6IDYhNA%3D%3D?uid=0&filename=styles0-3.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
 
 [Samples of Tables Styles 4-7](https://downloader.disk.yandex.ru/preview/45fac07e72320673aa23a091cf4d9f3010b2311eeb552a3ab3ed0960a0200f03/63c5e959/sudv65zWP8Gz5ucB0BCeEOoLIZijh98BcRIQPTRc0yhCS1L7_-MvL-5-4iKAcF7rToZbwyQ1PIvXEpTY5zrbng%3D%3D?uid=0&filename=styles4-7.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
 
